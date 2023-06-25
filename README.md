@@ -64,4 +64,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions about this project, please open an issue or reach out to us directly via https://twitter.com/civai_official.
+If you have any questions about this project, please open an issue or reach out to us directly via https://twitter.com/zlm_ai.
